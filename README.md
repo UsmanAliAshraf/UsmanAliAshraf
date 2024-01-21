@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, C++ and C#**
 
-- 📫 How to reach me **https://linktr.ee/usmanaliashraf**
+- 📫 [View My Portfolio](https://linktr.ee/usmanaliashraf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
