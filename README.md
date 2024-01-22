@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Ali Ashraf</h1>
-<h3 align="center">UET CS'27 | SEO expert & Office Skills | Enthusiasm In Blockchain Technology | Adaptive To New Technologies | C++ | C# | Html | CSS</h3>
+<h3 align="center">UET CS'27 | Enthusiasm In Blockchain Technology | Adaptive To New Technologies |</h3>
 
 <p align="left"> <a href="https://twitter.com/usmanali_ashraf" target="blank"><img src="https://img.shields.io/twitter/follow/usmanali_ashraf?logo=twitter&style=for-the-badge" alt="usmanali_ashraf" /></a> </p>
 
