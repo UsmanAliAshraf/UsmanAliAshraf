@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Usman Ali Ashraf</h1>
-<h3 align="center">UET CS'27 | Enthusiasm In Blockchain Technology | Adaptive To New Technologies |</h3>
+<h3 align="center">UET CS'27 | Enthusiasm In Blockchain Technology | Adaptive To New Technologies</h3>
 
 <p align="left"> <a href="https://twitter.com/usmanali_ashraf" target="blank"><img src="https://img.shields.io/twitter/follow/usmanali_ashraf?logo=twitter&style=for-the-badge" alt="usmanali_ashraf" /></a> </p>
 
-- 🌱 I’m currently Persuing **My Bechalors Degree at University of Engineering and Technology, Lahore.**
+- 🌱 I’m currently Persuing My Bechalors Degree at **University of Engineering and Technology, Lahore.**
 
-- 💬 Ask me about **C, C++ and C#**
+- 💬 Ask me about **C, C++ and C# and Python**
 
-- 📫 [View My Portfolio](https://linktr.ee/usmanaliashraf)
+- 📫 [Visit My Portfolio here](https://linktr.ee/usmanaliashraf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
