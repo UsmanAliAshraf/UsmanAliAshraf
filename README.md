@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/usmanali_ashraf" target="blank"><img src="https://img.shields.io/twitter/follow/usmanali_ashraf?logo=twitter&style=for-the-badge" alt="usmanali_ashraf" /></a> </p>
 
-- 🌱 I’m currently Persuing My Bechalors Degree at **University of Engineering and Technology, Lahore.**
+- 🌱 I’m currently Pursuing My Bechalors Degree at **University of Engineering and Technology, Lahore.**
 
 - 💬 Ask me about **C, C++ and C# and Python**
 
