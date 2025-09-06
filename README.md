@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, C++, C#, Javascript and Python**
 
-- 📫 [Visit My Portfolio here](https://linktr.ee/usmanaliashraf)
+- 📫 [Visit My Portfolio here](https://portfolio-omega-five-60.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
