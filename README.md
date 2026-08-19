@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Pursuing My Bechalors Degree at **University of Engineering and Technology, Lahore.**
 
-- 💬 Ask me about **C, C++, C#, Javascript and Python**
+- 💬 Ask me about **Web Development, App development and AI Solutions**
 
 - 📫 [Visit My Portfolio here](https://usmanaliashraf.xyz)
 
