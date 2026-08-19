@@ -70,7 +70,7 @@ Automation & Integrations   █████████████████�
 
 **Portfolio:** [usmanaliashraf.xyz](https://usmanaliashraf.xyz)
 
-**LinkedIn:** [linkedin.com/in/usman-ali-ashraf-ab455a295](https://linkedin.com/in/usman-ali-ashraf-ab455a295)
+**LinkedIn:** [linkedin.com/in/usman-ali-ashraf-ab455a295](https://linkedin.com/in/usmanaleeashraff)
 
 **X / Twitter:** [@usmanali_ashraf](https://twitter.com/usmanali_ashraf)
 
